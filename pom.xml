@@ -4,13 +4,13 @@
 
     <groupId>io.github.lucariatias</groupId>
     <artifactId>personimator</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:https://github.com/Lucariatias/personimator.git</connection>
         <url>https://github.com/Lucariatias/personimator</url>
         <developerConnection>scm:git:https://github.com/Lucariatias/personimator.git</developerConnection>
-        <tag>v0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
